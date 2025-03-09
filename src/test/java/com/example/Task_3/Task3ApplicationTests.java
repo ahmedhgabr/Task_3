@@ -74,7 +74,7 @@
 //	@Test
 //	public void testUpdateUserUsername_Success() throws Exception {
 //		String payload = "{ \"id\": \"" + user1.getId() + "\", \"username\": \"AliceNew\" }";
-//		mockMvc.perform(put("/users/updateUsers")
+//		mockMvc.perform(put("/users/updateUser")
 //						.contentType(MediaType.APPLICATION_JSON)
 //						.content(payload))
 //				.andExpect(status().isOk())
@@ -84,7 +84,7 @@
 //	@Test
 //	public void testUpdateUserUsername_NotFound() throws Exception {
 //		String payload = "{ \"id\": \"nonexistentid\", \"username\": \"NoUser\" }";
-//		mockMvc.perform(put("/users/updateUsers")
+//		mockMvc.perform(put("/users/updateUser")
 //						.contentType(MediaType.APPLICATION_JSON)
 //						.content(payload))
 //				.andExpect(status().isNotFound());
