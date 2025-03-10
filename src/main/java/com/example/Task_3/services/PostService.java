@@ -1,8 +1,8 @@
 //package com.example.Task_3.services;
 //
-//import com.example.Task_3_Solution.models.Comment;
-//import com.example.Task_3_Solution.models.Post;
-//import com.example.Task_3_Solution.repositories.PostRepository;
+//import com.example.Task_3.models.Comment;
+//import com.example.Task_3.models.Post;
+//import com.example.Task_3.repositories.PostRepository;
 //import org.springframework.http.HttpStatus;
 //import org.springframework.stereotype.Service;
 //import org.springframework.web.server.ResponseStatusException;

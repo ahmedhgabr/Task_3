@@ -1,6 +1,6 @@
-//package com.example.Task_3_Solution.controllers;
+//package com.example.Task_3.controllers;
 //
-//import com.example.Task_3_Solution.services.DatabaseSeeder;
+//import com.example.Task_3.services.DatabaseSeeder;
 //import org.springframework.beans.factory.annotation.Value;
 //import org.springframework.web.bind.annotation.GetMapping;
 //import org.springframework.web.bind.annotation.PostMapping;
