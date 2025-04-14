@@ -1,7 +1,7 @@
-# Task 3 - Scalable Applications with Spring Boot and MongoDB
+# Scalable Applications with Spring Boot and MongoDB
 
 ## Overview
-This project is a Spring Boot application using MongoDB. It manages users, posts, and comments with simple CRUD operations. Additional features include updating usernames, fetching posts by author, and adding comments to posts.
+This project is a Spring Boot application using MongoDB. It manages users, posts, and comments with CRUD operations. Additional features include updating usernames, fetching posts by author, and adding comments to posts.
 
 ## Features
 - Create, read, update, and delete users and posts.
